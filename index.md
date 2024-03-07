@@ -1,7 +1,4 @@
 ```
-function greet(name) {
-  console.log("Hello, " + name + "!");
-}
-
-greet("World");
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
